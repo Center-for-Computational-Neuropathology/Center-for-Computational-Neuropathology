@@ -1,4 +1,6 @@
-# Crary Lab - Computational Pathology and AI
+# The Center for Artificial Intelligence & Computational Neuropathology
+
+## Crary Lab - Computational Pathology and AI
 
 Welcome to the Crary Lab's Computational Pathology and AI repository. We are a dedicated research group at Mount Sinai, focusing on the intersection of artificial intelligence and neuropathology.
 
