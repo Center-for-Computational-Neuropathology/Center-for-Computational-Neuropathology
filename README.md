@@ -18,6 +18,6 @@ We welcome collaborations and contributions from the scientific community. If yo
 
 ## Contact Us
 
-- **Website:** [Crary Lab](http://www.crarylab.org/computational---ai.html)
-- **Email:** neuropathcompcenter.mssm@gmail.com
-
+- **Crary Lab Website:** [Crary Lab](http://www.crarylab.org/computational---ai.html)
+- **Farrell Lab Website:** [Farrell Lab](https://www.kurtfarrelllab.org)
+- **Email:** [neuropathcompcenter.mssm@gmail.com](mailto:neuropathcompcenter.mssm@gmail.com)
