@@ -1,6 +1,6 @@
 <img width="2290" height="632" alt="image" src="https://github.com/user-attachments/assets/750c66dc-730b-404a-a37b-558169922306" />
 
-# The Center for Artificial Intelligence & Computational Neuropathology
+## The Center for Artificial Intelligence & Computational Neuropathology
 
 ## About Us
 
